@@ -1,0 +1,46 @@
+C:\Users\rhwotmd\Desktop\Directory\bin\Debug\Directory.exe.config
+C:\Users\rhwotmd\Desktop\Directory\bin\Debug\Directory.exe
+C:\Users\rhwotmd\Desktop\Directory\bin\Debug\Directory.pdb
+C:\Users\rhwotmd\Desktop\Directory\bin\Debug\MyControl.dll
+C:\Users\rhwotmd\Desktop\Directory\bin\Debug\MyControl.pdb
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.Properties.Resources.resources
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.csproj.GenerateResource.cache
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.csproj.CoreCompileInputs.cache
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.csproj.CopyComplete
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.exe
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.pdb
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.csproj.ResolveComReference.cache
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.Directory.resources
+C:\Users\rhwotmd\Desktop\Directory\obj\Debug\Directory.csprojAssemblyReference.cache
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\bin\Debug\Directory.exe.config
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\obj\Debug\Directory.csproj.ResolveComReference.cache
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\obj\Debug\Directory.exe
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\obj\Debug\Directory.pdb
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\obj\Debug\Directory.csprojResolveAssemblyReference.cache
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\obj\Debug\Directory.Directory.resources
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\obj\Debug\Directory.Properties.Resources.resources
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\obj\Debug\Directory.csproj.GenerateResource.Cache
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\bin\Debug\Directory.exe
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\bin\Debug\Directory.pdb
+C:\Users\DUMB\Desktop\최종\Directory ver.1.3\Directory\bin\Debug\MyControl.pdb
+D:\MYFIle\바탕화면\정리\최종\Directory ver.1.3\Directory\bin\Debug\Directory.exe.config
+D:\MYFIle\바탕화면\정리\최종\Directory ver.1.3\Directory\obj\Debug\Directory.csproj.ResolveComReference.cache
+D:\MYFIle\바탕화면\정리\최종\Directory ver.1.3\Directory\obj\Debug\Directory.exe
+D:\MYFIle\바탕화면\정리\최종\Directory ver.1.3\Directory\obj\Debug\Directory.pdb
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\bin\Debug\Directory.exe.config
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.csproj.ResolveComReference.cache
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.exe
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.pdb
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.Directory.resources
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.Properties.Resources.resources
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\bin\Debug\Directory.exe
+C:\Users\MSI\Desktop\프젝정리\Directory ver.1.3\Directory\bin\Debug\Directory.pdb
+C:\Users\MSI\Desktop\바탕화면 정리\프젝정리\Directory ver.1.3\Directory\bin\Debug\Directory.exe.config
+C:\Users\MSI\Desktop\바탕화면 정리\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.csproj.ResolveComReference.cache
+C:\Users\MSI\Desktop\바탕화면 정리\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.exe
+C:\Users\MSI\Desktop\바탕화면 정리\프젝정리\Directory ver.1.3\Directory\obj\Debug\Directory.pdb
+C:\Users\MSI\Desktop\정리\Directory ver.1.3\Directory\bin\Debug\Directory.exe.config
+C:\Users\MSI\Desktop\정리\Directory ver.1.3\Directory\obj\Debug\Directory.csproj.ResolveComReference.cache
+C:\Users\MSI\Desktop\정리\Directory ver.1.3\Directory\obj\Debug\Directory.exe
+C:\Users\MSI\Desktop\정리\Directory ver.1.3\Directory\obj\Debug\Directory.pdb
